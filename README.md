@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **anikanayona@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KO9hfEcRI6g9YMo8v6F6zlNAxbP5CbmAb5kS6MuxisI/edit?usp=sharing](https://docs.google.com/document/d/1KO9hfEcRI6g9YMo8v6F6zlNAxbP5CbmAb5kS6MuxisI/edit?usp=sharing)
+- 📄 Know about my experiences http://bit.ly/3IPcxlx
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
