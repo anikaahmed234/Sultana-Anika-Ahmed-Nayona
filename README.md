@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://blog.gurock.com/wp-content/uploads/2020/06/TR_Fighting_Clusters-3.png">
 
--  I’m currently learning Automation **Selenium, Cypress, Cucumber, Appium, Jenkins etc.**
+-  I’m currently learning Automation **Selenium, Cypress, Cucumber, Appium, CI/CD pipelines using GitHub/Jenkins etc.**
 
 - 📫 Reach me at **anikanayona@gmail.com**
 
