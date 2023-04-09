@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Sultana Anika Ahmed Nayona</h1>
 <h3 align="center">I’m a professional System Tester with a strong understanding of Testing procedures. Highly organized with the ability to work in a fast-paced environment.</h3>
 
-<img align="right" alt="coding" width="400" src="https://blog.gurock.com/wp-content/uploads/2020/06/TR_Fighting_Clusters-3.png">
+<img align="right" alt="coding" width="400" src="https://s3.amazonaws.com/mokacoding/2015-10-29-bug.jpg">
 
 -  I’m currently learning Automation **Selenium, Cypress, Cucumber, Appium, CI/CD pipelines using GitHub/Jenkins etc.**
 
